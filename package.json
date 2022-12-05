@@ -1,0 +1,10 @@
+{
+  "name": "insomnia-plugin-token-setter",
+  "version": "0.0.1",
+  "private": false,
+  "insomnia": {
+    "name": "token-setter",
+    "description": "A very simple plugin to set a template var token from clipboard"
+  },
+  "main": "main.js"
+}
